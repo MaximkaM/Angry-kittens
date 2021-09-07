@@ -14,6 +14,5 @@
 1. А тут циферки 
 2. тут цифра 2
 
-**Bold** and _Italic_ and `Code` text
 
 ![Image](енот.jpg)
