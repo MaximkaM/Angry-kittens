@@ -11,4 +11,4 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](Енот.jpg)
+[Link](url) and ![Image](енот.jpg)
