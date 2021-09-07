@@ -7,13 +7,12 @@
  
 ![Image](енот2.jpg)
 
-- Bulleted
-- List
-- 
+- Текст с точечками
+- и еще одна 
 ![Image](енот3.jpg)
 
-1. Numbered
-2. List
+1. А тут циферки 
+2. тут цифра 2
 
 **Bold** and _Italic_ and `Code` text
 
